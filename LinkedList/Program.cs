@@ -17,6 +17,11 @@ namespace LinkedList
             next = null;
         }
     }
+
+    public class LinkedList
+    {
+        public Node head;
+    }
     public class Program
     {
         public static void Main(string[] args)
